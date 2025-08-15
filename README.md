@@ -1,7 +1,11 @@
 # Neovim Config
 
 Minimal Lua-based Neovim setup with theme switching, Telescope integration, and LSP support.
+## Screenshots
 
+![](https://github.com/DmitriyYurck/My-Config/blob/main/Screenshot_2025-08-15-14-46-29-471.jpg)
+![](https://github.com/DmitriyYurck/My-Config/blob/main/Screenshot_2025-08-15-15-06-27-545.jpg)
+![](https://github.com/DmitriyYurck/My-Config/blob/main/Screenshot_2025-08-15-14-48-18-176.jpg)
 ## Features
 
 - File explorer (`NvimTree`)
